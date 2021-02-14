@@ -1,10 +1,6 @@
-##Team Name: 
-    #Stock at there
+Team Name: 
+    Stock at there
 Team Member: 
-    Jim Lee(JJimLee),
-    Yijing Liang(lyj0913),
-    Cynthia Huang(minzhih),
-    Yoyo Chen(yoyo493)
 Jim Lee, mla222@sfu.ca
 Yijing Liang, yla507@sfu.ca,
 Cynthia Huang, minzhih@sfu.ca,

@@ -20,7 +20,7 @@ Insure the library is set:
 * cowplot:  install.packages('cowplot')
 
 After the Library install, the data will be auto-connect to the finance database. The forecast system will analyze the next possible price of the stock.
-* You will be about to use:
+* You will be able to use:
   * http://127.0.0.1:5961  (or you localhost: ) 
   
   Also can be access to our demo page:

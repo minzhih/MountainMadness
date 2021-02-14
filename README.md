@@ -9,14 +9,14 @@ Our project topic is stock. We have created three different shinny app with. The
 ### How to run: <h3> 
 This program is provide by R code and R studio, the libraries we applied are: 
 Insure the library is set:
-> shiny:  install.packages('shiny')
-> datasets:  install.packages('datasets')
-> forecast:  install.packages('forecast')
-> tidyquant:  install.packages('tidyquant')
-> zoo:  install.packages('zoo') #sould be install during tidyquant
-> ggplot2:  install.packages('ggplot2')
-> tidyverse:  install.packages('tidyverse')
-> dplyr:  install.packages('dplyr')
-> cowplot:  install.packages('cowplot')
+* shiny:  install.packages('shiny')
+* datasets:  install.packages('datasets')
+* forecast:  install.packages('forecast')
+* tidyquant:  install.packages('tidyquant')
+* zoo:  install.packages('zoo') #sould be install during tidyquant
+* ggplot2:  install.packages('ggplot2')
+* tidyverse:  install.packages('tidyverse')
+* dplyr:  install.packages('dplyr')
+* cowplot:  install.packages('cowplot')
 
 
